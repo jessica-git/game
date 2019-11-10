@@ -1,0 +1,83 @@
+.backgroundScreen {
+    background-image: url("../img/basura 2-01.png");
+    background-position: center;  
+}
+body {
+    color: #922B21 ;
+    background-color: #010F1E;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+div {
+    font-family: 'McLaren', cursive;
+}
+
+h1 {
+    font-family: 'McLaren', cursive;
+    font-family: 'ZCOOL KuaiLe', cursive;
+    letter-spacing: 10px;
+    padding: 30px;
+    text-align: center;
+    font-size: 7em;
+    margin: 20px 0 20px 0;
+    text-decoration: none;
+    -webkit-transition: all 0.5s;
+    -moz-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+p {
+    font-weight: bolder;
+}
+
+.arrow {
+    width: 80px;
+}
+
+.display-flex {
+    display: flex;
+}
+.justify{
+    justify-content: center;
+}
+
+.text {
+    text-align: right;
+}
+.nada {
+    width: 100%;
+}
+
+
+
+
+
+.boton-personalizado{
+    
+    border-radius: 10px;
+    text-decoration: none;
+    text-shadow: 3px 3px 3px black;
+    font-weight:600;
+    font-size:30px;
+    padding-top:10px;
+    padding-bottom:10px;
+    padding-left:30px;
+    padding-right:30px;
+    background-color:#D35400;
+    color:#ffffff;
+    margin-bottom: 10px;
+    
+    
+    
+}
+.boton-personalizado:hover {
+    background-color:#922B21;
+    
+}
+
+a:hover {
+    text-decoration-line: none;
+    color: white
+}
+
